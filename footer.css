@@ -1,0 +1,29 @@
+<style>
+    .footer{
+  background: #152F4F;
+  color:white;
+  position: fixed;
+  left: 0;
+  top:500px;
+  bottom: 0;
+  width: 100%;
+  
+  color: white;
+  text-align: center;
+
+  .about-company{
+    {font-size: 25px;}
+    
+    a{
+      color:white;
+      transition: color .2s;
+      &:hover{color:#4180CB}
+      
+    }
+  } 
+  .location{
+    i{font-size: 18px;}
+  }
+  .copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+}
+    </style>
